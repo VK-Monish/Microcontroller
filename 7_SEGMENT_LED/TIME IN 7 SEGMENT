@@ -1,3 +1,13 @@
+////////////////////////////////////////////////////|
+//                                                 ||
+// AUTHOR      : MONISH KUMAR.K                    ||
+//                                                 ||
+// FILE NAME   : 7_Segment                         ||
+//                                                 ||
+// DESCRIPTION : PRINT TIME IN 7 SEGMENT           ||
+//                                                 || 
+// DATE        : 20/01/2024                        ||
+////////////////////////////////////////////////////|
 #include <htc.h>
 __CONFIG(0x1f7a);
 #define _XTAL_FREQ 20000000
