@@ -12,6 +12,7 @@
 #include <htc.h>
 __CONFIG(0x1f7a);
 #define _XTAL_FREQ 20000000
+
 void main()
 {
 	TRISB=0;//PORTB IS OUTPUT
